@@ -94,7 +94,7 @@ The pipeline successfully detects lane lines in various road conditions. See the
 
 ## Author
 
-[Your Name] - [Your Student ID]
+[Arijit Dutta] - [2025AA05713]
 
 ## License
 
